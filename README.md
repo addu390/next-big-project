@@ -5,4 +5,6 @@ To start with, the on-going projects are:
 - MYRO 2.0 - Manufacture Prosthetic Hand at an affordable price.
 - Spread awareness to reduce carbon footprint.
 
-Visit the website: https://thenextbigproject.com
+[![Blog Home Preview](https://pyblog.xyz/wp-content/uploads/2020/10/tnbp-screen.png)](https://thenextbigproject.com/)
+
+**[Visit the website](https://thenextbigproject.com/)**
